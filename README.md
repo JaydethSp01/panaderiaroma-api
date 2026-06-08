@@ -1,2 +1,3 @@
-# panaderiaroma-api
-ScrumDev AI backend (panaderiaroma-api)
+# TPLRESTAURAN Backend
+
+Este es el backend del sistema de gestión de restaurantes, construido con FastAPI y PostgreSQL.
